@@ -27,7 +27,7 @@ The potential energy in the fuel is converted into heat energy when the spark pl
 - [What is CC? and Bore, Stroke, Cylinder, RPM -Explained in Detail](https://youtu.be/sRXD7-mylN4)
 - [TRANSPARENT ENGINE SIMSON CLEAR TUNING POLSKA CHYLORACING](https://youtu.be/Bi3dGI5cLu4)
 - [How does a motorcycle engine work? | Home Schooling Lesson 8](https://youtu.be/m85GiaJnMNg)
-- [BS4 to BS6 | Confusion Cleared | Emission norms, Your Next Car and The Future | Zigwheels](https://youtu.be/v31NnBdY1X8)
+- [See inside a running engine! - How an engine works - Suck, squeeze, bang, blow, repeat!](https://youtu.be/dTxmOxGpLG4)
 
 **Articles:**
 - [More CC is more power? Not quite so](http://bikeindia.in/more-cc-is-more-power-not-quite-so/)
