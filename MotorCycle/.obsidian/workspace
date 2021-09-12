@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "1ebd0e2c81eaddb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "725d3a6a62f38b74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Torque&Power.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a99a3bd600d29545",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Torque&Power.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ec656b34b82c8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "381b18eda3993f66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f911b7690936a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f857b6bda08785ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cc34cdd3e81007e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75718f6e98f2e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02847b53d2f9aad3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Torque&Power.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "725d3a6a62f38b74",
+  "lastOpenFiles": [
+    "Torque&Power.md",
+    "Engine.md",
+    "Metadata.md",
+    "Types of Motorcycles.md",
+    "Untitled.md"
+  ]
+}
